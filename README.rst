@@ -39,7 +39,7 @@ Agriculture
 Biology
 -------
         
-* |OK_ICON| `1000 Genomes <http://www.1000genomes.org/data>`_
+* |FIXME_ICON| `1000 Genomes <http://www.1000genomes.org/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/1000-Genomes.yml>`_]
         
 * |OK_ICON| `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
         
@@ -123,7 +123,7 @@ Biology
         
 * |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
         
-* |OK_ICON| `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+* |FIXME_ICON| `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UniGene.yml>`_]
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
     
@@ -162,7 +162,7 @@ Climate+Weather
         
 * |OK_ICON| `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
         
-* |FIXME_ICON| `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WU-Historical-Weather-Worldwide.yml>`_]
+* |OK_ICON| `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_
     
@@ -228,6 +228,8 @@ ComputerNetworks
         
 * |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_
         
+* |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
+        
 * |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
         
 * |OK_ICON| `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
@@ -245,7 +247,7 @@ DataChallenges
         
 * |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_
         
-* |OK_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_
+* |FIXME_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/CrowdANALYTIX-dataX.yml>`_]
         
 * |FIXME_ICON| `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/D4D-Challenge-of-Orange.yml>`_]
         
@@ -371,7 +373,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_
         
-* |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <http://www.doc.ic.ac.uk/~dk3810/data/>`_
+* |FIXME_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <http://www.doc.ic.ac.uk/~dk3810/data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UK-DALE.yml>`_]
         
 * |OK_ICON| `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
         
@@ -394,7 +396,7 @@ Finance
         
 * |OK_ICON| `OANDA <http://www.oanda.com/>`_
         
-* |OK_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
+* |FIXME_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OSU-Financial-data.yml>`_]
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_
         
@@ -445,7 +447,7 @@ GIS
         
 * |OK_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -494,7 +496,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
+* |FIXME_ICON| `China <http://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -650,13 +652,13 @@ Government
         
 * |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
         
-* |OK_ICON| `Taiwan <http://data.gov.tw/>`_
+* |FIXME_ICON| `Taiwan <http://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
 * |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/index_en.html#/>`_
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -752,13 +754,15 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
+* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_
+        
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
 * |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English [...] <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image [...] <https://www.gwern.net/Danbooru>`_
         
-* |OK_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_
+* |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
@@ -913,7 +917,7 @@ NaturalLanguage
         
 * |OK_ICON| `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_
         
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_
         
 * |OK_ICON| `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
         
@@ -972,7 +976,7 @@ Neuroscience
         
 * |OK_ICON| `OpenNEURO <https://openneuro.org/public/datasets>`_
         
-* |FIXME_ICON| `OpenfMRI <https://openfmri.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OpenfMRI.yml>`_]
+* |OK_ICON| `OpenfMRI <https://openfmri.org/>`_
         
 * |OK_ICON| `Study Forrest <http://studyforrest.org>`_
     
@@ -1098,9 +1102,9 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
-* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1216,6 +1220,8 @@ SocialNetworks
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
         
+* |OK_ICON| `United States Congress Twitter Data - Daily datasets with tweets of 1100+ [...] <https://github.com/alexlitel/congresstweets>`_
+        
 * |OK_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
         
 * |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
@@ -1227,7 +1233,7 @@ SocialSciences
         
 * |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
-* |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
+* |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
 * |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_
         
@@ -1295,7 +1301,7 @@ SocialSciences
         
 * |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_
         
-* |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
+* |FIXME_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UCBs-Archive-of-Social-Science-Data-D-Lab.yml>`_]
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
@@ -1347,6 +1353,8 @@ Sports
         
 * |OK_ICON| `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
         
+* |OK_ICON| `Pro Kabadi season 1 to 7 - Pro Kabadi League is a professional-level [...] <https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats>`_
+        
 * |OK_ICON| `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
         
 * |OK_ICON| `Tennis database of rankings, results, and stats for ATP <https://github.com/JeffSackmann/tennis_atp>`_
@@ -1355,6 +1363,8 @@ Sports
     
 TimeSeries
 ----------
+        
+* |OK_ICON| `3W dataset - To the best of its authors' knowledge, this is the first [...] <https://github.com/ricardovvargas/3w_dataset>`_
         
 * |OK_ICON| `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
         
@@ -1375,7 +1385,7 @@ Transportation
         
 * |OK_ICON| `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
         
-* |OK_ICON| `Dutch Traffic Information <https://www.ndw.nu/en/>`_
+* |FIXME_ICON| `Dutch Traffic Information <https://www.ndw.nu/en/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Dutch-Traffic-Information.yml>`_]
         
 * |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
         
@@ -1395,7 +1405,7 @@ Transportation
         
 * |OK_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
         
-* |FIXME_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml>`_]
+* |OK_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
         
 * |OK_ICON| `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
         
